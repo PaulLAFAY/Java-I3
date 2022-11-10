@@ -1,0 +1,7 @@
+"Y:\\Java POO\\F3\\F3 EX7\\Western\\src\\Barmen.java"
+"Y:\\Java POO\\F3\\F3 EX7\\Western\\src\\Brigand.java"
+"Y:\\Java POO\\F3\\F3 EX7\\Western\\src\\Cowboy.java"
+"Y:\\Java POO\\F3\\F3 EX7\\Western\\src\\Dame.java"
+"Y:\\Java POO\\F3\\F3 EX7\\Western\\src\\Humain.java"
+"Y:\\Java POO\\F3\\F3 EX7\\Western\\src\\Sherif.java"
+"Y:\\Java POO\\F3\\F3 EX7\\Western\\src\\Western.java"

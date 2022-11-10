@@ -1,0 +1,5 @@
+"Y:\\Java POO\\F3\\F3 EX5\\Biblio\\src\\Biblio.java"
+"Y:\\Java POO\\F3\\F3 EX5\\Biblio\\src\\Dictionnaire.java"
+"Y:\\Java POO\\F3\\F3 EX5\\Biblio\\src\\Document.java"
+"Y:\\Java POO\\F3\\F3 EX5\\Biblio\\src\\ListeDeDocuments.java"
+"Y:\\Java POO\\F3\\F3 EX5\\Biblio\\src\\Livre.java"

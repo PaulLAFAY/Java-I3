@@ -1,0 +1,7 @@
+"Y:\\Java POO\\F3\\F3 EX6\\TestForme\\src\\EnsemblePolygone.java"
+"Y:\\Java POO\\F3\\F3 EX6\\TestForme\\src\\Point.java"
+"Y:\\Java POO\\F3\\F3 EX6\\TestForme\\src\\Polygone.java"
+"Y:\\Java POO\\F3\\F3 EX6\\TestForme\\src\\Quadrilatere.java"
+"Y:\\Java POO\\F3\\F3 EX6\\TestForme\\src\\Rectangle.java"
+"Y:\\Java POO\\F3\\F3 EX6\\TestForme\\src\\TestForme.java"
+"Y:\\Java POO\\F3\\F3 EX6\\TestForme\\src\\Triangle.java"

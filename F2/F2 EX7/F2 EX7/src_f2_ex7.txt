@@ -1,0 +1,2 @@
+"Y:\\Java POO\\F2 EX7\\F2 EX7\\src\\F2_EX7.java"
+"Y:\\Java POO\\F2 EX7\\F2 EX7\\src\\Individu.java"
